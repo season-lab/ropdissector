@@ -1,0 +1,16 @@
+Usage: ROPMatrixMult.exe <number_of_rows_in_square_matrix> <elements_in_matrix_1> <elements_in_matrix_2>
+	The program will write the product of the two square matrices to stdout.
+
+	For example, to calculate the product
+	| 1 2 |     | 5 6 |
+	| 3 4 |  *  | 7 8 |
+	the following invocation would be used
+
+	ROPMatrixMult 2 1 2 3 4 5 6 7 8
+
+
+Compiled and tested on a Windows XP SP2 machine using:
+	msvcrt.dll version 7.0.2600.2180
+	ntdll.dll version 5.1.2600.2180
+
+Zip file password: obfuscated

@@ -1,0 +1,8 @@
+Usage: ROPFactorial.exe
+	After invocation, enter a number n into stdin, then n! will be written to stdout.
+
+Compiled and tested on a Windows XP SP2 machine using:
+	msvcrt.dll version 7.0.2600.2180
+	ntdll.dll version 5.1.2600.2180
+
+Zip file password: obfuscated

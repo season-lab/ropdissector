@@ -1,0 +1,4 @@
+pefile
+pyvex
+ropper
+ropgadget

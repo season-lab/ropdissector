@@ -1,0 +1,7 @@
+capstone>=4.0.1
+pefile
+enum34
+networkx
+unicorn
+graphviz
+pydot
