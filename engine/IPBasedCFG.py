@@ -42,12 +42,3 @@ class IPBasedMPCFG(IPBasedCFG):
     def add_edges(self, traces):
         for trace in traces:
             IPBasedCFG.add_edges(self, trace)
-
-
-"""
-main
-    from scozzo_su_debray import ScozzoDB
-    scozzo = ScozzoDB()
-    scozzo.add_nodes(emu.output.gadget_sequence)
-    scozzo.add_edges(emu.output.gadget_sequence)
-"""
